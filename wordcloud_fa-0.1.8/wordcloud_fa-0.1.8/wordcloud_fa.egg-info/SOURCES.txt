@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+wordcloud_fa/WordCloudFa.py
+wordcloud_fa/__init__.py
+wordcloud_fa/stopwords
+wordcloud_fa/test.py
+wordcloud_fa.egg-info/PKG-INFO
+wordcloud_fa.egg-info/SOURCES.txt
+wordcloud_fa.egg-info/dependency_links.txt
+wordcloud_fa.egg-info/requires.txt
+wordcloud_fa.egg-info/top_level.txt
+wordcloud_fa/Fonts/font.ttf

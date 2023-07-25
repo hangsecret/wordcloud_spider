@@ -1,0 +1,8 @@
+python-dateutil>=2.7.3
+pytz>=2017.3
+numpy>=1.16.5
+
+[test]
+pytest>=5.0.1
+pytest-xdist
+hypothesis>=3.58
